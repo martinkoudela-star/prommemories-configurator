@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/martinkoudela-star/prommemories-configurator/main/prommemories-configurator.zip",
+  "homepage": "https://github.com/martinkoudela-star/prommemories-configurator",
+  "requires": "5.8",
+  "tested": "6.6",
+  "last_updated": "2026-07-03",
+  "sections": {
+    "description": "Konfigurátor cen služeb na maturitní plesy s administrací a shortcode [prommemories_configurator].",
+    "changelog": "<h4>1.0.0</h4><ul><li>První verze pluginu.</li></ul>"
+  }
+}
