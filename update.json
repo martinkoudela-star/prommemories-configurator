@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.0",
   "download_url": "https://raw.githubusercontent.com/martinkoudela-star/prommemories-configurator/main/prommemories-configurator.zip",
   "homepage": "https://github.com/martinkoudela-star/prommemories-configurator",
   "requires": "5.8",
@@ -7,6 +7,6 @@
   "last_updated": "2026-07-04",
   "sections": {
     "description": "Konfigurátor cen služeb na maturitní plesy s administrací a shortcode [prommemories_configurator].",
-    "changelog": "<h4>1.1.1</h4><ul><li>Oprava: tlačítko \"Odeslat poptávku\" je nyní viditelně neaktivní, dokud není vybraná žádná služba (dřív nic nedělalo tiše).</li><li>Editor barev: přidán posuvník průhlednosti (alpha) ke každé barvě.</li></ul><h4>1.1.0</h4><ul><li>Editor vzhledu (globální barvy + barva pro jednotlivou sekci).</li><li>Odstraněn den/noc přepínač.</li><li>Poptávky se nyní odesílají e-mailem.</li><li>Tlačítko pro ruční kontrolu aktualizací.</li></ul>"
+    "changelog": "<h4>1.2.0</h4><ul><li>Na mobilu je cenová nabídka nyní přichycená dole jako skládací lišta (celkem + tlačítko), rozklikne se na plný rozpis.</li></ul><h4>1.1.1</h4><ul><li>Oprava tlačítka poptávky, přidána průhlednost barev.</li></ul>"
   }
 }
