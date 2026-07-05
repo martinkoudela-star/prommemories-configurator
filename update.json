@@ -1,5 +1,5 @@
 {
-  "version": "1.6.1",
+  "version": "1.6.2",
   "download_url": "https://raw.githubusercontent.com/martinkoudela-star/prommemories-configurator/main/prommemories-configurator.zip",
   "homepage": "https://github.com/martinkoudela-star/prommemories-configurator",
   "requires": "5.8",
@@ -7,6 +7,6 @@
   "last_updated": "2026-07-04",
   "sections": {
     "description": "Konfigurátor cen služeb na maturitní plesy s administrací a shortcode [prommemories_configurator].",
-    "changelog": "<h4>1.6.1</h4><ul><li>Oprava: e-mail s poptávkou zobrazoval doslovně \"&nbsp;\" místo mezery v částkách (chyba české lokalizace WordPressu u number_format_i18n). Čísla se teď formátují bez závislosti na lokalizaci.</li></ul>"
+    "changelog": "<h4>1.6.2</h4><ul><li>Sjednocen vzhled výběru napříč sekcemi — zaškrtávátko u individuální ceny (Výzdoba) je nyní kulaté jako radio buttony u balíčků, se stejnou barvou textu a hover efektem.</li></ul>"
   }
 }
