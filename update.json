@@ -1,5 +1,5 @@
 {
-  "version": "1.6.3",
+  "version": "1.6.4",
   "download_url": "https://raw.githubusercontent.com/martinkoudela-star/prommemories-configurator/main/prommemories-configurator.zip",
   "homepage": "https://github.com/martinkoudela-star/prommemories-configurator",
   "requires": "5.8",
@@ -7,6 +7,6 @@
   "last_updated": "2026-07-05",
   "sections": {
     "description": "Konfigurátor cen služeb na maturitní plesy s administrací a shortcode [prommemories_configurator].",
-    "changelog": "<h4>1.6.3</h4><ul><li>Oprava: odrážky v popisu balíčku byly neviditelné (černá barva na tmavém pozadí) — nyní mají stejnou barvu jako text popisu.</li></ul>"
+    "changelog": "<h4>1.6.4</h4><ul><li>Oprava: odrážky se vůbec nevykreslovaly, protože šablona webu pravděpodobně globálně resetuje styl seznamů (list-style: none). Nyní se odrážky vynucují explicitně.</li></ul>"
   }
 }
