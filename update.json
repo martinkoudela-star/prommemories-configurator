@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "download_url": "https://raw.githubusercontent.com/martinkoudela-star/prommemories-configurator/main/prommemories-configurator.zip",
   "homepage": "https://github.com/martinkoudela-star/prommemories-configurator",
   "requires": "5.8",
@@ -7,6 +7,6 @@
   "last_updated": "2026-07-04",
   "sections": {
     "description": "Konfigurátor cen služeb na maturitní plesy s administrací a shortcode [prommemories_configurator].",
-    "changelog": "<h4>1.4.0</h4><ul><li>Cenová nabídka na desktopu nyní skutečně jede se scrollováním (vlastní JS řešení místo CSS sticky).</li><li>Ukládání jen na kliknutí tlačítka \"Uložit změny\" — už žádné automatické ukládání.</li><li>Popisy balíčků: možnost tučného textu a přepínání mezi blokem textu a odrážkami.</li><li>Editor v administraci má nyní pevný neutrální vzhled, nezávislý na barvách nastavených pro web; barvy webu se ukazují v malém odděleném náhledu.</li></ul>"
+    "changelog": "<h4>1.5.0</h4><ul><li>Cenová nabídka má větší odstup od horní hrany při scrollování.</li><li>Vybraná varianta nyní obarví i puntík (radio bullet), ne jen pozadí řádku.</li><li>Vyskakovací okno poptávky má vlastní, samostatně nastavitelné (neprůhledné) pozadí, nezávislé na průhlednosti karet.</li><li>Nová karta \"E-mail\" — nastavitelný předmět, úvodní a závěrečný text odesílaného e-mailu.</li><li>Nová karta \"Pole formuláře poptávky\" — libovolně přidávej/odebírej/přejmenuj pole (telefon, poznámka, datum...), nastav zda jsou povinná a jakého typu.</li></ul>"
   }
 }
