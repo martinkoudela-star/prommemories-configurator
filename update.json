@@ -1,12 +1,12 @@
 {
-  "version": "1.6.2",
+  "version": "1.6.3",
   "download_url": "https://raw.githubusercontent.com/martinkoudela-star/prommemories-configurator/main/prommemories-configurator.zip",
   "homepage": "https://github.com/martinkoudela-star/prommemories-configurator",
   "requires": "5.8",
   "tested": "6.6",
-  "last_updated": "2026-07-04",
+  "last_updated": "2026-07-05",
   "sections": {
     "description": "Konfigurátor cen služeb na maturitní plesy s administrací a shortcode [prommemories_configurator].",
-    "changelog": "<h4>1.6.2</h4><ul><li>Sjednocen vzhled výběru napříč sekcemi — zaškrtávátko u individuální ceny (Výzdoba) je nyní kulaté jako radio buttony u balíčků, se stejnou barvou textu a hover efektem.</li></ul>"
+    "changelog": "<h4>1.6.3</h4><ul><li>Oprava: odrážky v popisu balíčku byly neviditelné (černá barva na tmavém pozadí) — nyní mají stejnou barvu jako text popisu.</li></ul>"
   }
 }
